@@ -237,9 +237,5 @@
 나는 Claude로 [자동화한 업무명] 업무를 자동화했어요!
 ```
 
-### 퀴즈 제작 자료
 
-- 로고 파일: `aiworkinnovationlab_logo.jpg`
-- HTML 결과 파일명: `automation_topic_discovery_quiz.html`
-- 퀴즈 구성: 기본 10문항, “아직 잘 모르겠어요” 선택 시 추가 10문항 스무고개, 결과에서 프로젝트 지침 설문으로 연결
 
